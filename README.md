@@ -17,8 +17,12 @@
 
 1. <b>Buy</b> - пользователю предлагают купить один из трех видов кофе: эспрессо (1), латте (2) или капучино (3).
 <br> При наличии всех небоходимых ингридиентов, будет вывод сообщения о том, что кофе готов. Если нет - сообщение о том, что покупка невозможна
+<img src="https://sun9-12.userapi.com/impg/gkMQvYmV4lbc1lB6rhOWHnth7p3TQkat63z7nA/nSUGfvmvN6E.jpg?size=575x259&quality=96&sign=4ac96405e148762ac4cac62291a0c9d2&type=album" align="center">
 2. <b>Fill</b> -  позволяет пополнить запасы ингредиентов в кофемашине.
 <br> Следует указать количество того или иного продукта, которые вы хотите добавить. После пополнения запасов вы вернетесь в главное меню.
+<img src="https://sun9-56.userapi.com/impg/gN7L32VIr1hoYl7IzU1746ouAJ1fpVvfL2Gaog/Do4TLlfm5EI.jpg?size=509x299&quality=96&sign=1488cfebcd5a25490706f6fe923ecd1f&type=album" align="center">
 3. <b>Take</b> - позволяет снять накопленную сумму денег из баланса кофемашины. После снятия денег баланс станет равен нулю, и вы вернетесь в главное меню.
+<img src="https://sun1-97.userapi.com/impg/WV4QdxTfccztzlTBkox5VEX5H6TXr8adTwBg2Q/FAWJ1YD3vRY.jpg?size=609x103&quality=96&sign=944b7ce943a9cf8c34c750e221a631ef&type=album">
 4. <b>Remaining</b> - позволяет узнать остаток ингредиентов в кофемашине, а также текущий баланс средств. После отображения остатка, вы вернетесь в главное меню.
+<img src="https://sun1-96.userapi.com/impg/qkJSJtMW7HNDCttRewUyE59R6wjA6Af9dA7hSQ/eRhd-EJz6yA.jpg?size=1280x68&quality=96&sign=eed01d92a5415e26d8c1e7aeaef0472b&type=album">
 5. <b>Exit</b> - завершает работу с кофемашиной и выходит из программы.
